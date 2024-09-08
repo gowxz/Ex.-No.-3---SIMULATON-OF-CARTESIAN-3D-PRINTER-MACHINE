@@ -1,6 +1,12 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
+'''python
+def:
+print("kavya")
+a=int()
+'''
+
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
 
@@ -60,8 +66,11 @@
 
 ## Output:
 
+![1](https://github.com/user-attachments/assets/0720ca63-36fe-4354-9dcb-e3b58e9397cb)
+
+
 ### Name: 
-### Register Number:
+### Register Number:4556789
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
